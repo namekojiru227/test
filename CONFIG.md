@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-king-ohger
+test
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-キングオージャー専用フィード
+test
 
 # description
 
 > This is the description of the feed.
 
-王様戦隊キングオージャーに関するキーワードを拾います。
+test
 
 # searchTerms
 
@@ -25,94 +25,7 @@ king-ohger
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- 王様戦隊
-- キングオージャー
-- ギラ
-- ハスティー
-- クワガタオージャー
-- キングクワガタオージャー
-- ヤンマ
-- トンボオージャー
-- ヒメノ
-- カマキリオージャー
-- カグラギ
-- ディボウスキ
-- ハチオージャー
-- リタ
-- パピヨンオージャー
-- もっふん
-- ジェラミー
-- ブラシエリ
-- スパイダークモノス
-- シュゴッダム
-- コーカサスカブト城
-- ラクレス
-- オオクワガタオージャー
-- ドゥーガ
-- ボシマール
-- コガネ
-- ブーン
-- ゴローゲ
-- ンコソパ
-- ペタ城
-- シオカラ
-- アッカ
-- ウスバ
-- マユタ
-- イシャバーナ
-- フラピュタル城
-- セバスチャン
-- エレガンス
-- ゴッカン
-- ザイバーン城
-- モルフォーニャ
-- トウフ
-- タキタテ城
-- クロダ
-- スズメ
-- スズメ・ディボウスキ
-- オージャカリバー
-- キングズウエポン
-- キングズホットライン
-- キングスピーダー
-- クモノスレイヤー
-- ヴェノミックスシューター
-- スパイダークモノスキー
-- クモノスキーホルダー
-- オージャクラウン
-- オージャクラウンランス
-- シュゴッド
-- ゴッドクワガタ
-- クワゴン
-- ゴッドトンボ
-- ゴッドカマキリ
-- ゴッドハチ
-- ゴッドパピヨン
-- ゴッドクモ
-- ゴッドテントウ
-- ゴッドアント
-- ゴッドカブト
-- カブタン
-- ゴッドスコーピオン
-- サソリーヌ
-- すこピ
-- ゴッドホッパー
-- ゴッドタランチュラ
-- タランチュラナイト
-- バグナラク
-- デズナラク
-- カメジム
-- ゲロウジーム
-- ネフィラ
-- ベダリア
-- コフキ
-- ライニオール
-- デボニカ
-- イロキ
-- ダグデド
-- ゴーマ
-- ヒルビル
-- ミノンガン
+- アロイス
 
 # safeMode
 
